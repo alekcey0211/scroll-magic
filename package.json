@@ -1,0 +1,19 @@
+{
+	"name": "scroll-magic",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "parcel index.html --target browser"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"sass": "^1.32.13",
+		"typescript": "^4.2.4"
+	},
+	"dependencies": {
+		"gsap": "^3.6.1"
+	}
+}
